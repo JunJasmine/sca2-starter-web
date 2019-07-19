@@ -2,7 +2,8 @@ import React, { Component } from 'react'
 
 class Home extends Component {
   render() {
-    return <div> Namjun and his Crab Friends! </div>
+    return <div> 
+      <h1> Namjun and his Crab Friends! </h1> </div>
   }
 }
 
